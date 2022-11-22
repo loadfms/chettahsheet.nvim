@@ -15,5 +15,5 @@ use {'loadfms/nvim-chettahsheet'}
 
 ## Usage
 ```
-:lua require("chettasheet").chettasheet() 
+:lua require"chettahsheet".run()
 ```
