@@ -1,6 +1,6 @@
 local M = {}
 
-function M.chettahsheet()
+function M.run()
     local input = vim.fn.input("ﲉ ", "", "file")
     local cmd = ""
 
